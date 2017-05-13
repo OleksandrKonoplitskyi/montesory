@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('seguisb.ttf');
+    src: url('segoeui.eot');
+    src: local('☺'), url('segoeui.woff') format('woff'),
+    url('segoeui.ttf') format('truetype'),
+    url('segoeui.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Conv_segoeuisl';
+    src: url('segoeuisl.eot');
+    src: local('☺'), url('segoeuisl.woff') format('woff'), url('segoeuisl.ttf') format('truetype'), url('segoeuisl.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SegoeUIRegular";
+    src: url("SegoeUIRegular/SegoeUIRegular.eot");
+    src: url("SegoeUIRegular/SegoeUIRegular.eot?#iefix") format("embedded-opentype"),
+    url("SegoeUIRegular/SegoeUIRegular.woff") format("woff"),
+    url("SegoeUIRegular/SegoeUIRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SegoeUIBold";
+    src: url("SegoeUIBold/SegoeUIBold.eot");
+    src: url("SegoeUIBold/SegoeUIBold.eot?#iefix") format("embedded-opentype"),
+    url("SegoeUIBold/SegoeUIBold.woff") format("woff"),
+    url("SegoeUIBold/SegoeUIBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SegoeUIItalic";
+    src: url("SegoeUIItalic/SegoeUIItalic.eot");
+    src: url("SegoeUIItalic/SegoeUIItalic.eot?#iefix") format("embedded-opentype"),
+    url("SegoeUIItalic/SegoeUIItalic.woff") format("woff"),
+    url("SegoeUIItalic/SegoeUIItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SegoeUILight";
+    src: url("SegoeUILight/SegoeUILight.eot");
+    src: url("SegoeUILight/SegoeUILight.eot?#iefix") format("embedded-opentype"),
+    url("SegoeUILight/SegoeUILight.woff") format("woff"),
+    url("SegoeUILight/SegoeUILight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SegoeUISemiBold";
+    src: url("SegoeUISemiBold/SegoeUISemiBold.eot");
+    src: url("SegoeUISemiBold/SegoeUISemiBold.eot?#iefix") format("embedded-opentype"),
+    url("SegoeUISemiBold/SegoeUISemiBold.woff") format("woff"),
+    url("SegoeUISemiBold/SegoeUISemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*@import url('https:/../fonts.googleapis.com/css?family=Roboto+Slab');*/
+
+@font-face {
+    font-family: 'RobotoSlab-Regular';
+    src: url('robotoreg/RobotoSlab-Regular.eot');
+    src: local('☺'), url('robotoreg/RobotoSlab-Regular.woff') format('woff'),
+    url('robotoreg/RobotoSlab-Regular.ttf') format('truetype'),
+    url('robotoreg/RobotoSlab-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
